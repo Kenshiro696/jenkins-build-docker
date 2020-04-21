@@ -1,3 +1,5 @@
+// 2020-04-21_8h38
+
 def pipelineContext = [:]
 node {
 	def registryProjet='registry.gitlab.com/kenshiro69/jenkins'
